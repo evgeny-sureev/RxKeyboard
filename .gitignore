@@ -3,7 +3,6 @@ sourcekitten-output.json
 docs/
 /.build
 /Packages
-/*.xcodeproj
 **/xcuserdata
 **/xcshareddata
 Pods/
@@ -12,3 +11,4 @@ Examples/**/Podfile.lock
 *.xcconfig
 *.framework.zip
 .idea/
+Example/build
